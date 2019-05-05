@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSGO Logitech Integration", "CSGO Logitech Integration.csproj", "{E253FDDA-E055-48C3-B096-5BDB2D17DB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E253FDDA-E055-48C3-B096-5BDB2D17DB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E253FDDA-E055-48C3-B096-5BDB2D17DB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E253FDDA-E055-48C3-B096-5BDB2D17DB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E253FDDA-E055-48C3-B096-5BDB2D17DB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F8F149-5B22-4167-9380-BDDF7387660C}
+	EndGlobalSection
+EndGlobal
