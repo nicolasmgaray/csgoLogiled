@@ -6,7 +6,7 @@ Didn´t like the original integration from Logitech since its a little Gimmicky 
 
 # Instructions
 
-For it to work you need to put the .cfg file inside the "csgo\cfg\" directory of the game; Then just star the program and press "Start Server" button.
+For it to work you need to put the .cfg file inside the "csgo\cfg\" directory of the game; Then just start the program and press "Start Server" button.
 
 # Already Done
 
